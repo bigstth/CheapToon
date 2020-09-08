@@ -1,0 +1,66 @@
+body{
+  font-family: 'Kanit', sans-serif;
+}
+img{
+        padding: 10px;
+    }
+h1{
+      padding-top: 1.3em;
+      padding-bottom: 0.2em;
+    }
+    #linkz{
+      margin-bottom: 0.1em;
+      margin-top: 0.4em;
+    }
+b{
+      
+      font-size: 18px;
+    }
+#za{
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+#za2{
+      margin-bottom: 10px;
+    }
+#logo{
+  margin-bottom: 20px;
+
+}
+#logo h1 {
+  color: rgb(255, 174, 0);
+  font-size: 56px;
+}
+#logo p {
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+  padding-left: 40px;
+  text-shadow: 1px 1px #fff;
+}
+#bgheader{
+  background-image: url("../img/bg.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: scroll;
+  height:350px;
+  
+}
+.foot { 
+ width: 100%;
+
+}
+.foot footer{
+  display: block;
+}
+#idbox{
+  background: linear-gradient(0deg, rgba(75,75,75,1) 0%, rgba(48,48,48,1) 56%, rgba(0,0,0,1) 100%);
+  padding-top: 12px;
+  padding-left: 12px;
+  padding-right: 12px;
+  padding-bottom: 12px;
+  margin-top: 63px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+}
